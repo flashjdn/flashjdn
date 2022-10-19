@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flashjdn&label=Profile%20views&color=0e75b6&style=flat" alt="flashjdn" /> </p>
 
+<p align="left" <img src="https://www.codewars.com/users/flashjdn/badges/large" alt="codewars" /> </p>
+
 - 🌱 I’m currently learning **TypeScript, and looking into AWS technologies.**
 
 - 💬 Ask me about **the weather we're having, maybe it's nice?**
